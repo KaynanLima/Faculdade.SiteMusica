@@ -6,7 +6,8 @@
 
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title></title>
+    <title>VibeEvents</title>
+    <!---<link rel="shortcut icon" type="image/png" href="notas-musicais.png"/>-->
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
     <link href="Css/Projeto.css" rel="stylesheet" />
@@ -25,7 +26,7 @@
             <div class="content-wrap">
                 <!-- Logomarca -->
                 <div class="logomarca">
-                    <img src="Images/marca1.png" />
+                    <img src="Images/notas-musicais.png" />
                 </div>
                 <!--Barra título-->
                 <div class="barra-titulo">
@@ -61,8 +62,8 @@
                         <h4>Links Úteis</h4
                         <ul>
                             <li><a href="#" target="_blank">Próximos Eventos</a></li>
-                            <li><a href="#" target="_blank">Política de Privacidade</a></li>
-                            <li><a href="#" target="_blank">Termos de Serviço</a></li>
+                            <!--<li><a href="#" target="_blank">Política de Privacidade</a></li>--->
+                            <li><a href="https://policies.google.com/terms?hl=pt-BR" target="_blank">Termos de Serviço</a></li>
                             <li><a href="https://wa.me/qr/PQDY53TZ5NS4P1" target="_blank">Fale Conosco</a></li>
                         </ul>
                     </div>

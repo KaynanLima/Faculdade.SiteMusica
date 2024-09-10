@@ -37,8 +37,8 @@
                 });
             });
         </script>
-        <script src="https://kit.fontawesome.com/2cfa6a23a4.js" crossorigin="anonymous">
-        </script>
+        <script src="https://kit.fontawesome.com/2cfa6a23a4.js" crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/65f22fe718.js" crossorigin="anonymous"></script>
     </div>
 
     <div class="row margin-top-60">

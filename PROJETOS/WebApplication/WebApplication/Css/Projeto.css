@@ -1,0 +1,119 @@
+﻿/* PROJETO WEB - ESTRUTURA DA MASTER PAGE */
+
+
+/* CABEÇALHO  */
+.cabecalho {
+    height: 81px;
+    width: 100%;
+    background-color: #D8A4F2;
+    color: white;
+}
+
+.logomarca {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;                                                                                      
+}
+
+.barra-titulo {
+    position: absolute;
+    top: 0;
+    left: 81px;
+    right: 0;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px; /* Ajuste o tamanho conforme a necessidade */
+    letter-spacing: 2px; /* Dá um espaço maior entre as letras, se quiser */
+    color: #ffffff; /* Ou a cor que você preferir */
+}
+
+.barra-menu {
+    position: absolute;
+    left: 81px;
+    top: 40px;
+    right: 0;
+    height: 40px;
+    text-align:right;
+}
+
+    .barra-menu a {
+        color: white;
+        font-size: 14px;
+        margin-left: 4px;
+        margin-right: 4px;
+        padding-bottom: 2px;
+        text-decoration: none;
+    }
+
+        .barra-menu a:hover {
+            color: white;
+            border-bottom: 3px solid white;
+        }
+
+
+.conteudo {
+    min-height: 800px;
+}
+
+.rodape {
+    background-color: #D8A4F2;
+    color: #FFFFFF;
+    padding: 40px 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.rodape-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.rodape-col {
+    width: 30%;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+    .rodape-col h4 {
+        font-size: 18px;
+        margin-bottom: 15px;
+        text-transform: uppercase;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .rodape-col ul {
+        list-style: none;
+        padding: 0;
+    }
+
+        .rodape-col ul li {
+            margin-bottom: 10px;
+        }
+
+            .rodape-col ul li a {
+                color: #FFFFFF;
+                text-decoration: none;
+                font-size: 14px;
+            }
+
+                .rodape-col ul li a:hover {
+                    text-decoration: underline;
+                }
+
+.rodape-bottom {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+
+

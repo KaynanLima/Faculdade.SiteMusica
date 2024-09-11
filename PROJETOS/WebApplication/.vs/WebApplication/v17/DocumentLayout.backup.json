@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|c:\\users\\user\\desktop\\coisas importantes\\faculdade\\github\\faculdade.sitem\u00FAsica\\projetos\\webapplication\\webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\webapplication\\javascript\\flexslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\javascript\\flexslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\webapplication\\javascript\\flexslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\javascript\\flexslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|c:\\users\\user\\desktop\\coisas importantes\\faculdade\\github\\faculdade.sitem\u00FAsica\\projetos\\webapplication\\webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +38,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Projeto.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\WebApplication\\Css\\Projeto.css",
               "RelativeDocumentMoniker": "WebApplication\\Css\\Projeto.css",
               "ToolTip": "C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\WebApplication\\Css\\Projeto.css",
               "RelativeToolTip": "WebApplication\\Css\\Projeto.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-05T12:54:54.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T12:54:54.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\WebApplication\\Default.aspx",
               "RelativeDocumentMoniker": "WebApplication\\Default.aspx",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "WebApplication\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-29T15:01:45.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T15:01:45.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "flexslider.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\WebApplication\\Javascript\\flexslider.css",
               "RelativeDocumentMoniker": "WebApplication\\Javascript\\flexslider.css",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "WebApplication\\Javascript\\flexslider.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAANAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-05T14:46:11.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T14:46:11.055Z"
             },
             {
               "$type": "Document",
@@ -90,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StyleSheet.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Coisas Importantes\\Faculdade\\GitHub\\Faculdade.SiteM\u00FAsica\\PROJETOS\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
               "RelativeDocumentMoniker": "WebApplication\\Css\\StyleSheet.css",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "WebApplication\\Css\\StyleSheet.css",
               "ViewState": "AgIAADUBAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-29T15:04:18.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T15:04:18.863Z"
             }
           ]
         }

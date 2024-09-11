@@ -30,7 +30,7 @@
                 </div>
                 <!--Barra título-->
                 <div class="barra-titulo">
-                    <h2>VibeEvents</h2>
+                    <h2 class="barra-titulo">VIBEVENTs</h2>
                 </div>
                 <!-- barra menu -->
                 <div class="barra-menu">

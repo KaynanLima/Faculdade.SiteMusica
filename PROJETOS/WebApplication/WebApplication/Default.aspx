@@ -43,9 +43,9 @@
 
     <div class="row margin-top-60">
         <div class="col-3">
-            <div class="box border margin-right-20" style="margin-left: 20px;">
+            <div class="box border margin-right-20" style="margin-left: 20px; border-radius: 15px;">
                 <div>
-                    <img width="100%" src="Images/1.png" />
+                    <img width="100%" src="Images/1.png"  style="border-radius: 15px 15px 0 0;" />
                 </div>
 
                 <div class="padding-14">
@@ -59,9 +59,9 @@
         </div>
 
         <div class="col-3">
-            <div class="box border margin-right-20">
+            <div class="box border margin-right-20" style="margin-left: 20px; border-radius: 15px;" >
                 <div>
-                    <img width="100%" src="Images/2.png" />
+                    <img width="100%" src="Images/2.png" style="border-radius: 15px 15px 0 0;" />
                 </div>
 
                 <div class="padding-14">
@@ -73,9 +73,9 @@
         </div>
 
         <div class="col-3">
-            <div class="box border margin-right-20">
+            <div class="box border margin-right-20" style="margin-left: 20px; border-radius: 15px;">
                 <div>
-                    <img width="100%" src="Images/3.png" />
+                    <img width="100%" src="Images/3.png" style="border-radius: 15px 15px 0 0;" />
                 </div>
 
                 <div class="padding-14">
@@ -87,9 +87,9 @@
         </div>
 
         <div class="col-3">
-            <div class="box border margin-right-20">
+            <div class="box border margin-right-20" style="margin-left: 20px; border-radius: 15px;">
                 <div>
-                    <img width="100%" src="Images/4.png" />
+                    <img width="100%" src="Images/4.png" style="border-radius: 15px 15px 0 0;" />
                 </div>
 
                 <div class="padding-14">

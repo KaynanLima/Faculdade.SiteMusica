@@ -30,12 +30,14 @@
                 </div>
                 <!--Barra título-->
                 <div class="barra-titulo">
-                    <h2>VibeEvents</h2>
+                    <h2 class="barra-titulo">VIBE EVENTs</h2>
                 </div>
                 <!-- barra menu -->
                 <div class="barra-menu">
-                    <a target="_blank" href="https://www.google.com/">Google</a>
-                    <a href="Default.aspx">HOME</a>
+                    <a href="Default.aspx" style="margin-left:30px;">HOME</a>
+                    <a target="_blank" href="https://www.google.com/">GOOGLE</a>
+                    <a target="_blank" href="https://github.com/KaynanLima/Faculdade.SiteMusica">CÓDIGO FONTE</a>
+                    <a target="_blank" href="https://www.fatec.edu.br">FACULDADE</a>
                 </div>
             </div>
         </div>

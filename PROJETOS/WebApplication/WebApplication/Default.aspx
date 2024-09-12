@@ -42,10 +42,10 @@
         <script src="https://kit.fontawesome.com/65f22fe718.js" crossorigin="anonymous"></script>
     </div>
 
-    <div class="row margin-top-60" style="margin-bottom:120px">
+    <div class="row gradiente" style="margin-bottom:120px; padding-top:45px">
         <div class="col-6">
             <div class="box margin-right-20 padding-14" style="margin-left:130px">
-                <h1 class="titulo" style="margin-top:100px;">CONHEÇA MÚSICA DE VERDADE</h1>
+                <h1 class="titulo" style="margin-top:100px;">CONHEÇA <b style="color:#5D2E8C">MÚSICA</b> DE VERDADE</h1>
                 <div>
                     <p style="font-size:24px; line-height:35px; margin-bottom:45px">
                         Descubra a essência da música ao vivo com os melhores eventos que reunem artistas talentosos e experiências inesquecíveis. Seja parte de momentos únicos, onde cada nota ressoa mais alto e cada batida faz o coração pulsar. Garanta já o seu ingresso e viva a música de perto!

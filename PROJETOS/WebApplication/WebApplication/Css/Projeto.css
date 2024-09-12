@@ -5,7 +5,7 @@
 .cabecalho {
     height: 81px;
     width: 100%;
-    background-color: #D8A4F2;
+    background-color: #5D2E8C;
     color: white;
 }
 
@@ -56,7 +56,6 @@
             border-bottom: 3px solid white;
         }
 
-
 .conteudo {
     min-height: 800px;
 }
@@ -72,12 +71,16 @@
     display: inline-block;
     padding: 18px 35%;
     margin-left: 20px;
-    background-color: #007bff;
+    background-color: #5D2E8C;
     color: white;
     text-decoration: none;
     border-radius: 25px;
     font-size: 20px;
     font-weight: bold;
+}
+
+.gradiente {
+    background-image: linear-gradient(#87b990, #CFF2C9, #ecfbe0, white, white, white);
 }
 
 .rodape {

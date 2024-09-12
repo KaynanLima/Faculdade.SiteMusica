@@ -6,7 +6,8 @@
 
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title></title>
+    <title>VibeEvents</title>
+    <!---<link rel="shortcut icon" type="image/png" href="notas-musicais.png"/>-->
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
     <link href="Css/Projeto.css" rel="stylesheet" />
@@ -15,18 +16,17 @@
     <link href="Javascript/flexslider.css" rel="stylesheet" />
     <script src="Javascript/jquery-1.7.2.min.js"></script>
     <script src="Javascript/flexslider.min.js"></script>
-
+    <script src="https://kit.fontawesome.com/65f22fe718.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
     <form id="form1" runat="server">
-
         <!--CABEÇALHO -->
         <div class="cabecalho">
             <div class="content-wrap">
                 <!-- Logomarca -->
                 <div class="logomarca">
-                    <img src="Images/marca1.png" />
+                    <img src="Images/notas-musicais.png" />
                 </div>
                 <!--Barra título-->
                 <div class="barra-titulo">
@@ -56,7 +56,7 @@
                     <!-- Sobre Nós -->
                     <div class="rodape-col">
                         <h4>Sobre Nós</h4>
-                        <p>Somos uma plataforma dedicada a divulgar os melhores eventos musicais, proporcionando uma experiência completa para os amantes de música ao vivo.</p>
+                        <p>Somos uma plataforma dedicada a divulgar os melhores eventos musicais, proporcionando uma experiência completa para os amantes de música ao vivo. Este site por si só é um treinamento de Desenvolvimento WEB com C# para a matéria de Linguagens de Programação II.</p>
                     </div>
 
                     <!-- Links Úteis -->
@@ -64,8 +64,8 @@
                         <h4>Links Úteis</h4
                         <ul>
                             <li><a href="#" target="_blank">Próximos Eventos</a></li>
-                            <li><a href="#" target="_blank">Política de Privacidade</a></li>
-                            <li><a href="#" target="_blank">Termos de Serviço</a></li>
+                            <!--<li><a href="#" target="_blank">Política de Privacidade</a></li>--->
+                            <li><a href="https://policies.google.com/terms?hl=pt-BR" target="_blank">Termos de Serviço</a></li>
                             <li><a href="https://wa.me/qr/PQDY53TZ5NS4P1" target="_blank">Fale Conosco</a></li>
                         </ul>
                     </div>
@@ -75,8 +75,14 @@
                         <h4>Redes Sociais</h4>
                         <p>Nos siga nas redes sociais para ficar por dentro de todas as novidades:</p>
                         <ul class="social-icons">
-                            <li><a href="https://www.instagram.com/caiolopes_16/" target="_blank">Instagram - Caio Lopes</li>
-                            <li><a href="https://www.instagram.com/kaynanlima3/" target="_blank">Instagram - Kaynan Lima</a></li>
+                            <li>
+                                <i class="fa-brands fa-instagram"></i>
+                                <a href="https://www.instagram.com/caiolopes_16/" target="_blank">Instagram - Caio Lopes
+                            </li>
+                            <li>
+                                <i class="fa-brands fa-instagram"></i>
+                                <a href="https://www.instagram.com/kaynanlima3/" target="_blank">Instagram - Kaynan Lima</a>
+                            </li>
                         </ul>
                     </div>
                 </div>

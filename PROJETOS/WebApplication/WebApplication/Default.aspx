@@ -50,7 +50,7 @@
                     <p style="font-size:24px; line-height:35px; margin-bottom:45px">
                         Descubra a essência da música ao vivo com os melhores eventos que reunem artistas talentosos e experiências inesquecíveis. Seja parte de momentos únicos, onde cada nota ressoa mais alto e cada batida faz o coração pulsar. Garanta já o seu ingresso e viva a música de perto!
                     </p>
-                    <a class="botao-1" href="https://github.com/KaynanLima/Faculdade.SiteMusica/">
+                    <a class="botao-1" target="_blank" href="https://www.sympla.com.br/eventos/sao-paulo-sp/show-musica-festa">
                         Saiba Mais!
                     </a>
                 </div>

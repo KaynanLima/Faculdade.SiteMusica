@@ -61,6 +61,25 @@
     min-height: 800px;
 }
 
+.titulo {
+    font-size: 60px;
+    line-height: 70px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 30px
+}
+
+.botao-1 {
+    display: inline-block;
+    padding: 18px 35%;
+    margin-left: 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
 .rodape {
     background-color: #D8A4F2;
     color: #FFFFFF;

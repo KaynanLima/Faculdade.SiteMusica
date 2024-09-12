@@ -7,7 +7,7 @@
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>VibeEvents</title>
-    <!---<link rel="shortcut icon" type="image/png" href="notas-musicais.png"/>-->
+    <link rel="icon" href="Images/notas-musicais.png" type="image/png" sizes="64x64">
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
     <link href="Css/Projeto.css" rel="stylesheet" />
@@ -36,7 +36,7 @@
                 <!-- barra menu -->
                 <div class="barra-menu">
                     <a href="Default.aspx" style="margin-left:30px;">HOME</a>
-                    <a target="_blank" href="https://www.google.com/">GOOGLE</a>
+                    <!---<a target="_blank" href="https://www.google.com/">GOOGLE</a>--->
                     <a target="_blank" href="https://github.com/KaynanLima/Faculdade.SiteMusica">CÓDIGO FONTE</a>
                     <a target="_blank" href="https://www.fatec.edu.br">FACULDADE</a>
                 </div>
@@ -62,10 +62,9 @@
 
                     <!-- Links Úteis -->
                     <div class="rodape-col">
-                        <h4>Links Úteis</h4
-                        <ul>
-                            <li><a href="#" target="_blank">Próximos Eventos</a></li>
-                            <!--<li><a href="#" target="_blank">Política de Privacidade</a></li>--->
+                        <h4>Links Úteis</h4>
+                        <ul style="text-align:center">
+                            <li><a href="https://www.sympla.com.br/eventos/sao-paulo-sp/show-musica-festa" target="_blank">Próximos Eventos</a></li>
                             <li><a href="https://policies.google.com/terms?hl=pt-BR" target="_blank">Termos de Serviço</a></li>
                             <li><a href="https://wa.me/qr/PQDY53TZ5NS4P1" target="_blank">Fale Conosco</a></li>
                         </ul>
@@ -75,13 +74,13 @@
                     <div class="rodape-col">
                         <h4>Redes Sociais</h4>
                         <p>Nos siga nas redes sociais para ficar por dentro de todas as novidades:</p>
-                        <ul class="social-icons">
+                        <ul class="social-icons" style="text-align:center;">
                             <li>
-                                <i class="fa-brands fa-instagram"></i>
-                                <a href="https://www.instagram.com/caiolopes_16/" target="_blank">Instagram - Caio Lopes
+                                <i class="fa-brands fa-instagram" style="color: black;"></i>
+                                <a href="https://www.instagram.com/caiolopes_16/" target="_blank">Instagram - Caio Lopes</a>
                             </li>
                             <li>
-                                <i class="fa-brands fa-instagram"></i>
+                                <i class="fa-brands fa-instagram" style="color: black;"></i>
                                 <a href="https://www.instagram.com/kaynanlima3/" target="_blank">Instagram - Kaynan Lima</a>
                             </li>
                         </ul>

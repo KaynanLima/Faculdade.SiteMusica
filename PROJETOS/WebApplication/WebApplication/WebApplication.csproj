@@ -94,6 +94,7 @@
     <Content Include="Images\marca.png" />
     <Content Include="Images\marca1.png" />
     <Content Include="Images\menu_mobile.png" />
+    <Content Include="Images\musica-verdade-1.png" />
     <Content Include="Images\notas-musicais.png" />
     <Content Include="Images\programador.png" />
     <Content Include="Images\si1.png" />
@@ -129,6 +130,7 @@
     <Content Include="Javascript\flexslider-icon.eot" />
     <Content Include="Javascript\flexslider-icon.ttf" />
     <Content Include="Javascript\flexslider-icon.woff" />
+    <Content Include="Css\musica-verdade.webp" />
     <None Include="packages.config" />
     <Content Include="Site.Master" />
     <None Include="Web.Debug.config">

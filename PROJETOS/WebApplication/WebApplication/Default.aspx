@@ -6,6 +6,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="Conteudo" runat="server">
 
     <!-- Place somewhere in the <body> of your page -->
+
     <div class="flexslider">
         <ul class="slides">
             <li>
@@ -41,7 +42,30 @@
         <script src="https://kit.fontawesome.com/65f22fe718.js" crossorigin="anonymous"></script>
     </div>
 
-    <div class="row margin-top-60">
+    <div class="row margin-top-60" style="margin-bottom:120px">
+        <div class="col-6">
+            <div class="box margin-right-20 padding-14" style="margin-left:130px">
+                <h1 class="titulo" style="margin-top:100px;">CONHEÇA MÚSICA DE VERDADE</h1>
+                <div>
+                    <p style="font-size:24px; line-height:35px; margin-bottom:45px">
+                        Descubra a essência da música ao vivo com os melhores eventos que reunem artistas talentosos e experiências inesquecíveis. Seja parte de momentos únicos, onde cada nota ressoa mais alto e cada batida faz o coração pulsar. Garanta já o seu ingresso e viva a música de perto!
+                    </p>
+                    <a class="botao-1" href="https://github.com/KaynanLima/Faculdade.SiteMusica/">
+                        Saiba Mais!
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-6">
+            <div class="box margin-right-20 padding-14">
+                <img width="60%" src="Images/musica-verdade-1.png" style="margin-left:20%; margin-right:20%; margin-top:80px;"/>   
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row margin-top-60" style="margin-bottom:120px">
         <div class="col-3">
             <div class="box border margin-right-20" style="margin-left: 20px; border-radius: 15px;">
                 <div>

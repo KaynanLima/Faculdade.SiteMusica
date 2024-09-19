@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|c:\\users\\0040482411029\\documents\\faculdade.sitemusica\\projetos\\webapplication\\webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\webapplication\\javascript\\flexslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\javascript\\flexslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|c:\\users\\0040482411008\\desktop\\c#\\projetos\\webapplication\\webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\webapplication\\javascript\\flexslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\javascript\\flexslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,23 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\WebApplication\\Default.aspx",
+              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Default.aspx",
               "RelativeDocumentMoniker": "WebApplication\\Default.aspx",
-              "ToolTip": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\WebApplication\\Default.aspx",
+              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Default.aspx",
               "RelativeToolTip": "WebApplication\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -55,24 +47,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Projeto.css",
-              "DocumentMoniker": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\WebApplication\\Css\\Projeto.css",
+              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\Projeto.css",
               "RelativeDocumentMoniker": "WebApplication\\Css\\Projeto.css",
-              "ToolTip": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\WebApplication\\Css\\Projeto.css",
+              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\Projeto.css",
               "RelativeToolTip": "WebApplication\\Css\\Projeto.css",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAE0AAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-05T12:54:54.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "flexslider.css",
-              "DocumentMoniker": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\WebApplication\\Javascript\\flexslider.css",
+              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Javascript\\flexslider.css",
               "RelativeDocumentMoniker": "WebApplication\\Javascript\\flexslider.css",
-              "ToolTip": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\WebApplication\\Javascript\\flexslider.css",
+              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Javascript\\flexslider.css",
               "RelativeToolTip": "WebApplication\\Javascript\\flexslider.css",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -81,11 +73,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\WebApplication\\Site.Master",
+              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Site.Master",
               "RelativeDocumentMoniker": "WebApplication\\Site.Master",
-              "ToolTip": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\WebApplication\\Site.Master",
+              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Site.Master",
               "RelativeToolTip": "WebApplication\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -94,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StyleSheet.css",
-              "DocumentMoniker": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
               "RelativeDocumentMoniker": "WebApplication\\Css\\StyleSheet.css",
-              "ToolTip": "C:\\Users\\0040482411029\\Documents\\Faculdade.SiteMusica\\PROJETOS\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
               "RelativeToolTip": "WebApplication\\Css\\StyleSheet.css",
-              "ViewState": "AQIAAN4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABABAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-08-29T15:04:18.863Z",
               "EditorCaption": ""

@@ -6,6 +6,7 @@
 
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width-device-width, initial-scale=1"/>
     <title>VibeEvents</title>
     <link rel="icon" href="Images/notas-musicais.png" type="image/png" sizes="64x64">
     <asp:ContentPlaceHolder ID="head" runat="server">

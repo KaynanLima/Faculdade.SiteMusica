@@ -266,8 +266,15 @@ tem que ser as ultimas definições
         display: inline-block;
     }
 
-    /* FORMS ****************/
+    [class*=margin-right-20] {
+        margin-right:0px;
+    }
 
+    [class*=barra-titulo]{
+        font-size:12px;
+    }
+
+    /* FORMS ****************/
     .form-input {
         border: 0px;
         padding: 0px;

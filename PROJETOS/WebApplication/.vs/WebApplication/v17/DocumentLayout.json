@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|c:\\users\\0040482411008\\desktop\\c#\\projetos\\webapplication\\webapplication\\cadastrousuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\cadastrousuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|c:\\users\\0040482411008\\desktop\\c#\\projetos\\webapplication\\webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\webapplication\\javascript\\flexslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\javascript\\flexslider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|c:\\users\\0040482411008\\desktop\\c#\\projetos\\webapplication\\webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|c:\\users\\0040482411008\\desktop\\c#\\projetos\\webapplication\\webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|c:\\users\\0040482411008\\desktop\\c#\\projetos\\webapplication\\webapplication\\faleconosco.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\faleconosco.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|c:\\users\\0040482411008\\desktop\\c#\\projetos\\webapplication\\webapplication\\cadastrousuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12F2CB-4D15-49A7-A55E-0340FA2BF2D2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\cadastrousuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,50 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Default.aspx",
-              "RelativeDocumentMoniker": "WebApplication\\Default.aspx",
-              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Default.aspx",
-              "RelativeToolTip": "WebApplication\\Default.aspx",
+              "Title": "FaleConosco.aspx",
+              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\FaleConosco.aspx",
+              "RelativeDocumentMoniker": "WebApplication\\FaleConosco.aspx",
+              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\FaleConosco.aspx",
+              "RelativeToolTip": "WebApplication\\FaleConosco.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-29T15:01:45.8Z",
+              "WhenOpened": "2024-10-03T14:07:24.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Projeto.css",
-              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\Projeto.css",
-              "RelativeDocumentMoniker": "WebApplication\\Css\\Projeto.css",
-              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\Projeto.css",
-              "RelativeToolTip": "WebApplication\\Css\\Projeto.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-05T12:54:54.514Z",
+              "DocumentIndex": 5,
+              "Title": "CadastroUsuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\CadastroUsuario.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication\\CadastroUsuario.aspx.cs",
+              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\CadastroUsuario.aspx.cs",
+              "RelativeToolTip": "WebApplication\\CadastroUsuario.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:05:53.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "flexslider.css",
-              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Javascript\\flexslider.css",
-              "RelativeDocumentMoniker": "WebApplication\\Javascript\\flexslider.css",
-              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Javascript\\flexslider.css",
-              "RelativeToolTip": "WebApplication\\Javascript\\flexslider.css",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "WebApplication\\Css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
+              "RelativeToolTip": "WebApplication\\Css\\StyleSheet.css",
+              "ViewState": "AQIAACABAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-05T14:46:11.055Z",
+              "WhenOpened": "2024-10-03T13:58:18.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Projeto.css",
+              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\Projeto.css",
+              "RelativeDocumentMoniker": "WebApplication\\Css\\Projeto.css",
+              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\Projeto.css",
+              "RelativeToolTip": "WebApplication\\Css\\Projeto.css",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAIwKgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-03T13:58:06.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Site.Master",
               "RelativeDocumentMoniker": "WebApplication\\Site.Master",
@@ -81,20 +98,20 @@
               "RelativeToolTip": "WebApplication\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-05T12:50:53.302Z",
+              "WhenOpened": "2024-10-03T14:04:01.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
-              "RelativeDocumentMoniker": "WebApplication\\Css\\StyleSheet.css",
-              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
-              "RelativeToolTip": "WebApplication\\Css\\StyleSheet.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABABAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-29T15:04:18.863Z",
+              "DocumentIndex": 0,
+              "Title": "CadastroUsuario.aspx",
+              "DocumentMoniker": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\CadastroUsuario.aspx",
+              "RelativeDocumentMoniker": "WebApplication\\CadastroUsuario.aspx",
+              "ToolTip": "C:\\Users\\0040482411008\\Desktop\\C#\\PROJETOS\\WebApplication\\WebApplication\\CadastroUsuario.aspx",
+              "RelativeToolTip": "WebApplication\\CadastroUsuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-03T13:31:40.963Z",
               "EditorCaption": ""
             }
           ]

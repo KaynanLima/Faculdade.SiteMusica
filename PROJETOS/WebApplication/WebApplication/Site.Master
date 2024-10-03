@@ -37,9 +37,10 @@
                 <!-- barra menu -->
                 <div class="barra-menu">
                     <a href="Default.aspx" style="margin-left:30px;">HOME</a>
+                    <a href="CadastroUsuario.aspx">CADASTRO</a>
                     <!---<a target="_blank" href="https://www.google.com/">GOOGLE</a>--->
-                    <a target="_blank" href="https://github.com/KaynanLima/Faculdade.SiteMusica">CÓDIGO FONTE</a>
-                    <a target="_blank" href="https://www.fatec.edu.br">FACULDADE</a>
+                    <a href="https://www.sympla.com.br/eventos/sao-paulo-sp/show-musica-festa" target="_blank">PRÓXIMOS EVENTOS</a>
+                    <a href="FaleConosco.aspx">FALE CONOSCO</a>
                 </div>
             </div>
         </div>
@@ -65,9 +66,9 @@
                     <div class="rodape-col">
                         <h4>Links Úteis</h4>
                         <ul style="text-align:center">
-                            <li><a href="https://www.sympla.com.br/eventos/sao-paulo-sp/show-musica-festa" target="_blank">Próximos Eventos</a></li>
                             <li><a href="https://policies.google.com/terms?hl=pt-BR" target="_blank">Termos de Serviço</a></li>
-                            <li><a href="FaleConosco.aspx" target="_blank">Fale Conosco</a></li>
+                            <li><a target="_blank" href="https://github.com/KaynanLima/Faculdade.SiteMusica">Código Fonte</a></li>
+                            <li> <a target="_blank" href="https://www.fatec.edu.br">Faculdade</a></li>
                         </ul>
                     </div>
 

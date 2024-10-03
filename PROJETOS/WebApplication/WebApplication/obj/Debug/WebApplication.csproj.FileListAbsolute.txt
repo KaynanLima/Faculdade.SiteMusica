@@ -234,3 +234,16 @@ C:\Users\0040482411029\Documents\Faculdade.SiteMusica\PROJETOS\WebApplication\We
 C:\Users\0040482411029\Documents\Faculdade.SiteMusica\PROJETOS\WebApplication\WebApplication\obj\Debug\WebAppli.11721D13.Up2Date
 C:\Users\0040482411029\Documents\Faculdade.SiteMusica\PROJETOS\WebApplication\WebApplication\obj\Debug\WebApplication.dll
 C:\Users\0040482411029\Documents\Faculdade.SiteMusica\PROJETOS\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\Datapost.DB.dll
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\MySql.Data.dll
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\System.Data.SQLite.dll
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\System.Memory.dll
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\System.Numerics.Vectors.dll
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\System.Buffers.dll
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\Datapost.DB.pdb
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\Datapost.DB.xml
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\MySql.Data.xml
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\System.Data.SQLite.pdb
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\System.Data.SQLite.xml
+C:\Users\0040482411008\Desktop\C#\PROJETOS\WebApplication\WebApplication\bin\System.Data.SQLite.dll.config

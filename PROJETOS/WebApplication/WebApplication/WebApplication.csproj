@@ -43,6 +43,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Datapost.DB">
+      <HintPath>..\..\..\Datapost\Datapost.DB.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -67,6 +70,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\DBADS2024.accdb" />
+    <Content Include="CadastroUsuario.aspx" />
     <Content Include="Css\Projeto.css" />
     <Content Include="Css\StyleSheet.css" />
     <Content Include="Default.aspx" />
@@ -76,6 +81,9 @@
     <Content Include="Images\3.png" />
     <Content Include="Images\4.png" />
     <Content Include="Images\aluno.png" />
+    <Content Include="Images\background register.png" />
+    <Content Include="Images\background.png" />
+    <Content Include="Images\backgroundRegister.png" />
     <Content Include="Images\banner0.png" />
     <Content Include="Images\banner1.png" />
     <Content Include="Images\banner2.png" />
@@ -111,6 +119,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CadastroUsuario.aspx.cs">
+      <DependentUpon>CadastroUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CadastroUsuario.aspx.designer.cs">
+      <DependentUpon>CadastroUsuario.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -147,6 +162,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Code\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

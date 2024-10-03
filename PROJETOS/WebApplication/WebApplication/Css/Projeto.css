@@ -145,3 +145,25 @@
 
 
 
+
+
+
+
+
+
+/* PARA A PÁGINA DE CADASTRO DE USUÁRIO */
+
+.transparente {
+    /*width: 400px;*/
+    border-radius: 8px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(9px);
+    -webkit-backdrop-filter: blur(9px);
+}
+
+
+.imagemFundo {
+    background-image: url('Images/backgroundRegister.png';
+}

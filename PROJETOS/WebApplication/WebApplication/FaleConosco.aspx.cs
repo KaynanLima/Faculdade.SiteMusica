@@ -64,13 +64,7 @@ namespace WebApplication
                     Alerta.Text = "HOUVE UMA FALHA AO ENVIAR O E-MAIL.";
                     Alerta.ForeColor= System.Drawing.Color.Red;
                     Formulario.Visible = false;
-                }
-
-
-
-
-
-                
+                }                
             }
         }
     }
